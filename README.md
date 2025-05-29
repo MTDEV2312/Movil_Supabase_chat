@@ -86,14 +86,11 @@ Este proyecto implementa una funcionalidad de chat básica donde los usuarios pu
 
 <!-- Aquí puedes añadir la imagen o un enlace a ella -->
 <!-- Ejemplo: ![Captura Dispositivo 1](ruta/a/la/captura1.png) -->
-<p align="center">
-  <em>(Espacio para la captura de pantalla del Dispositivo 1)</em>
-</p>
+![Imagen2](https://github.com/user-attachments/assets/d39cffdb-3167-4e24-ba59-ac0e4aeb3e0b)
 
 ### Captura desde Dispositivo 2
 
 <!-- Aquí puedes añadir la imagen o un enlace a ella -->
 <!-- Ejemplo: ![Captura Dispositivo 2](ruta/a/la/captura2.png) -->
-<p align="center">
-  <em>(Espacio para la captura de pantalla del Dispositivo 2)</em>
-</p>
+![Imagen1](https://github.com/user-attachments/assets/96054690-0cf5-414f-bd7d-f437dfda42db)
+
